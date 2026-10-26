@@ -1,6 +1,7 @@
 # 줴줴이랭 (gglang)
 
-요새 20대 남성 사이 유행하는 말투인 "아 예? 엄 줴줴이야~" 등으로 만든 난해한 프로그래밍 언어. [엄랭](https://github.com/rycont/umjunsik-lang)에서 여러 아이디어를 차용해 만들었습니다.
+요새 20대 남성 사이 유행하는 말투인 "아 예? 엄 줴줴이야~" 등으로 만든 난해한 프로그래밍 언어. 
+[엄랭](https://github.com/rycont/umjunsik-lang)에서 여러 아이디어를 차용해 만들었음.
 
 ```
 쥐~랄 아뇨아뇨아뇨아뇨아뇨
@@ -28,7 +29,7 @@
 pip install gglang
 ```
 
-Python 3.8 이상. 의존성 없음.
+Python 3.8 이상
 
 ## 실행
 
